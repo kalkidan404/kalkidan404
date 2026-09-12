@@ -1,51 +1,23 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm kalkidan</h1>
+<h3 align="center">A passionate web developer from Ethiopia</h3>
 
-# Hello! I'm kalkidan
+- 🔭 I’m currently working on **budgety**
 
-*tech, code, coffee <3*
+- 🌱 I’m currently learning **AI and Datascience**
 
----
+- 👨‍💻 All of my projects are available at [https://portfolio-v2-2lq9.vercel.app/](https://portfolio-v2-2lq9.vercel.app/)
 
-### 📌 About Me
+- 📝 I regularly write articles on [https://substack.com/@nerdykal](https://substack.com/@nerdykal)
 
-software developer who loves coding and coffee
+- 💬 Ask me about **react, node.js and python**
 
-* 🔭 **I'm currently working on** an application
-* 💬 **Ask me about** anything you want!
-* ⚡ **Fun fact:** I code at the beach
+- 📫 How to reach me **kalrokal000@gmail.com**
 
----
+- ⚡ Fun fact **I think am cool**
 
-### 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2661DAFB)
-![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalkidan404&theme=synthwave&show_icons=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalkidan404&theme=synthwave&layout=compact&hide_border=true" width="48%" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalkidan&theme=synthwave&hide_border=true" width="100%" />
-</p>
-
----
-
-### 💬 Dev Quote
-
-> "There are few things more frustrating or time wasting than debugging. Wouldn't it be a hell of a lot quicker if we just didn't create the bugs in the first place?"
-> 
-> *— Martin Fowler*
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>

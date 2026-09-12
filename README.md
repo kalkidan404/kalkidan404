@@ -75,86 +75,14 @@ Currently somewhere between code, AI, books &amp; rabbit holes.
 
 ### 💭 Dev Quote
 
+### 💭 Dev Quote
+
 <p align="center">
-  <svg width="850" height="230" viewBox="0 0 850 230" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" stop-color="#0D0A14"/>
-        <stop offset="50%" stop-color="#171022"/>
-        <stop offset="100%" stop-color="#241238"/>
-      </linearGradient>
-
-      <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#8B5CF6"/>
-        <stop offset="50%" stop-color="#C084FC"/>
-        <stop offset="100%" stop-color="#8B5CF6"/>
-      </linearGradient>
-
-      <filter id="blur">
-        <feGaussianBlur stdDeviation="18"/>
-      </filter>
-    </defs>
-
-    <!-- Background -->
-    <rect width="850" height="230" rx="18" fill="url(#bg)"/>
-
-    <!-- Purple ambient glow -->
-    <circle cx="100" cy="30" r="90" fill="#8B5CF6" opacity="0.10" filter="url(#blur)"/>
-    <circle cx="760" cy="210" r="100" fill="#A855F7" opacity="0.08" filter="url(#blur)"/>
-
-    <!-- Decorative line -->
-    <path
-      d="M70 180 C180 130, 250 210, 360 165 S560 110, 780 165"
-      fill="none"
-      stroke="url(#glow)"
-      stroke-width="1.5"
-      opacity="0.45"
-    />
-
-    <!-- Small accent -->
-    <circle cx="70" cy="55" r="4" fill="#C084FC"/>
-    <circle cx="82" cy="55" r="2" fill="#8B5CF6"/>
-
-    <!-- Quote -->
-    <text
-      x="425"
-      y="100"
-      text-anchor="middle"
-      fill="#F5F3FF"
-      font-family="Georgia, 'Times New Roman', serif"
-      font-size="31"
-      font-weight="600"
-    >
-      Stubborn women make the difference.
-    </text>
-
-    <text
-      x="425"
-      y="145"
-      text-anchor="middle"
-      fill="#C084FC"
-      font-family="Georgia, 'Times New Roman', serif"
-      font-size="29"
-      font-style="italic"
-    >
-      Stay stubborn.
-    </text>
-
-    <!-- Tiny signature-style detail -->
-    <text
-      x="425"
-      y="190"
-      text-anchor="middle"
-      fill="#8F879D"
-      font-family="Arial, sans-serif"
-      font-size="10"
-      letter-spacing="3"
-    >
-      KEEP GOING
-    </text>
-  </svg>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=28&duration=1&pause=999999&color=A855F7&center=true&vCenter=true&width=850&height=80&lines=Stubborn+women+make+the+difference.;Stay+stubborn."
+    alt="Stubborn women make the difference. Stay stubborn."
+  />
 </p>
-
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/kalkidan404">kalkidan404</a></i></p>
 

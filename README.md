@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Hello! I'm Genesis
+# Hello! I'm kalkidan
 
 *tech, code, coffee <3*
 

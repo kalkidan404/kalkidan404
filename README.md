@@ -1,4 +1,4 @@
-[9/12/2026 8:29 PM] Kalkidan: <p align="center">
+ <p align="center">
   <a href="https://github.com/kalkidan404">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=a855f7&fontSize=54&height=90&width=698&text=Hello!%20I'm%20Kalkidan" alt="Hello! I&#39;m Kalkidan" />
   </a>

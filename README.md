@@ -81,4 +81,4 @@ Currently somewhere between code, AI, books &amp; rabbit holes.
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/kalkidan404">kalkidan404</a></i></p>
-<p>Stubborn women make the difference, Stay stubborn </p>
+

@@ -73,14 +73,5 @@ Currently somewhere between code, AI, books &amp; rabbit holes.
   <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=kalkidan404&bg_color=00000000&color=a855f7&line=a855f7&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
-### 💭 Dev Quote
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=28&duration=1&pause=999999&color=A855F7&center=true&vCenter=true&width=850&height=80&lines=Stubborn+women+make+the+difference.;Stay+stubborn."
-    alt="Stubborn women make the difference. Stay stubborn."
-  />
-</p>
----
 <p align="center"><i>⭐️ From <a href="https://github.com/kalkidan404">kalkidan404</a></i></p>
 

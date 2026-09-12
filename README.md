@@ -75,8 +75,6 @@ Currently somewhere between code, AI, books &amp; rabbit holes.
 
 ### 💭 Dev Quote
 
-### 💭 Dev Quote
-
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=28&duration=1&pause=999999&color=A855F7&center=true&vCenter=true&width=850&height=80&lines=Stubborn+women+make+the+difference.;Stay+stubborn."

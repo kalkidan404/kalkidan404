@@ -32,14 +32,14 @@ software developer who loves coding and coffee
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&theme=synthwave&show_icons=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&theme=synthwave&layout=compact&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kalkidan404&theme=synthwave&show_icons=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalkidan404&theme=synthwave&layout=compact&hide_border=true" width="48%" />
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=synthwave&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalkidan&theme=synthwave&hide_border=true" width="100%" />
 </p>
 
 ---
